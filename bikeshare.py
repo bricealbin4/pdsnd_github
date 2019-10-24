@@ -174,7 +174,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+# We create a function raw_data to check and show whether the user want so see raw data or not
 def raw_data(df):
     user_input = input('Do you want to see raw data? Enter yes or no.\n')
     line_number = 0
