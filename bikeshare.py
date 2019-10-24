@@ -186,7 +186,7 @@ def raw_data(df):
             user_input = input('\nDo you want to see more raw data? Enter yes or no.\n')
         else:
             break
-
+# The main function operates there
 def main():
     while True:
         city, month, day = get_filters()
