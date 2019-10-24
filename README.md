@@ -17,3 +17,4 @@ Udacity course
 Python documentations
 Pandas documentations
 Datetime documentations
+https://www.atlassian.com/git/tutorials/
